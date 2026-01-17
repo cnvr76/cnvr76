@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects and open-source contributions**
 
-- 💬 Ask me about **Python, Flask, FastAPI, React, SQL, API integration, AI implementation and Gamedev)**
+- 💬 Ask me about **Python, Flask, FastAPI, React, SQL, Tailwind, API and AI integration, and Gamedev)**
 
 - 📫 How to reach me **kirillkolot8@gmail.com**
 
