@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyrylo</h1>
 <h3 align="center">Computer Science student in Slovakia | Backend & Frontend Developer</h3>
 
-- 👯 I’m looking to collaborate on **web development projects and open-source contributions**
+- 👯 I’m looking to collaborate on **web development and open-source projects**
 
 - 💬 Ask me about **Python, Flask, FastAPI, React, SQL, Tailwind, API and AI integration, and Gamedev)**
 
